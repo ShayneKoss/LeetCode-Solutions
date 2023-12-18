@@ -1,6 +1,6 @@
 # [LeetCode](https://leetcode.com/problemset/all/)
 
-![Language](https://img.shields.io/badge/language-Python%20%2F%20Modern%20C++-orange.svg)&nbsp;
+#[Language](https://img.shields.io/badge/language-Python%20%2F%20Modern%20C++-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)&nbsp;
 ![Update](https://img.shields.io/badge/update-weekly-green.svg)&nbsp;
 ![Progress](https://img.shields.io/badge/progress-2954%20%2F%202954-ff69b4.svg)&nbsp;
@@ -1295,3 +1295,4 @@
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
 </div>
 <br/>
+ 
